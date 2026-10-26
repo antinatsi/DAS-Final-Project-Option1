@@ -4,8 +4,7 @@ This is the final project for the LEAP Data analysis course, including a hands-o
 
 **Course**: LEAP – Data Analytics and Statistics with Applications  
 **Scenario**: Scenario 1 – Understanding Diabetes Progression  
-**Author**: [Το Ονοματεπώνυμό σας]  
-**Date**: [Ημερομηνία]  
+
 
 ---
 
